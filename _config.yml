@@ -1,0 +1,11 @@
+# Site settings
+title: Mandy Coates - Basket Maker
+email: mandybaskets@btinternet.com
+description: > # this means to ignore newlines until "baseurl:"
+  Traditional baskets in willow and hedgerow. Rush seating, plant supports etc. Repairs, workshops,
+  lessons and exibitions.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://mandycoates.co.uk" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
